@@ -1,0 +1,16 @@
+C:\Users\rodri\source\repos\Validação de CPF\Validação de CPF\bin\Debug\netcoreapp3.1\Validação de CPF.exe
+C:\Users\rodri\source\repos\Validação de CPF\Validação de CPF\bin\Debug\netcoreapp3.1\Validação de CPF.deps.json
+C:\Users\rodri\source\repos\Validação de CPF\Validação de CPF\bin\Debug\netcoreapp3.1\Validação de CPF.runtimeconfig.json
+C:\Users\rodri\source\repos\Validação de CPF\Validação de CPF\bin\Debug\netcoreapp3.1\Validação de CPF.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\Validação de CPF\Validação de CPF\bin\Debug\netcoreapp3.1\Validação de CPF.dll
+C:\Users\rodri\source\repos\Validação de CPF\Validação de CPF\bin\Debug\netcoreapp3.1\Validação de CPF.pdb
+C:\Users\rodri\source\repos\Validação de CPF\Validação de CPF\obj\Debug\netcoreapp3.1\Validação de CPF.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\Validação de CPF\Validação de CPF\obj\Debug\netcoreapp3.1\Validação_de_CPF.Form1.resources
+C:\Users\rodri\source\repos\Validação de CPF\Validação de CPF\obj\Debug\netcoreapp3.1\Validação de CPF.csproj.GenerateResource.cache
+C:\Users\rodri\source\repos\Validação de CPF\Validação de CPF\obj\Debug\netcoreapp3.1\Validação de CPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\Validação de CPF\Validação de CPF\obj\Debug\netcoreapp3.1\Validação de CPF.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\Validação de CPF\Validação de CPF\obj\Debug\netcoreapp3.1\Validação de CPF.AssemblyInfo.cs
+C:\Users\rodri\source\repos\Validação de CPF\Validação de CPF\obj\Debug\netcoreapp3.1\Validação de CPF.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\Validação de CPF\Validação de CPF\obj\Debug\netcoreapp3.1\Validação de CPF.dll
+C:\Users\rodri\source\repos\Validação de CPF\Validação de CPF\obj\Debug\netcoreapp3.1\Validação de CPF.pdb
+C:\Users\rodri\source\repos\Validação de CPF\Validação de CPF\obj\Debug\netcoreapp3.1\Validação de CPF.genruntimeconfig.cache

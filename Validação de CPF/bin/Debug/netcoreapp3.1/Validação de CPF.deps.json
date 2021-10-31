@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Validação de CPF/1.0.0": {
+        "runtime": {
+          "Validação de CPF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Validação de CPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
